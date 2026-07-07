@@ -5,7 +5,7 @@
 | **Author** | Omer |
 | **Created** | July 2026 |
 | **Software Used** | EasyEDA Pro |
-| **Total Time Spent** | 26 Hours |
+| **Total Time Spent** | 25 Hours |
 | **Project Type** | Open-Source ESP32 Development Board |
 | **Description** | A custom ESP32 development board inspired by *The Dark Knight* and the iconic Batman Batarang. Designed as a functional development board with a unique custom PCB shape while maintaining the features of a standard ESP32-WROOM development board. |
 
@@ -20,7 +20,7 @@ The project took approximately **26 hours** to complete over three working sessi
 
 ---
 
-# Day 1 — Schematic Planning (6 Hours)
+# Day 1 — Schematic Planning (5 Hours)
 <img width="644" height="311" alt="Screenshot 2026-07-07 140928" src="https://github.com/user-attachments/assets/ba74a75e-11f5-4132-be87-e82df549a4d4" />
 <img width="630" height="301" alt="Screenshot 2026-07-07 141001" src="https://github.com/user-attachments/assets/b2c66d00-0976-4a2a-83ae-bc42618643f5" />
 
